@@ -1,5 +1,5 @@
 # Presentations by Eugenio Alvarez
 
-### [ITPalooza Discovering Kanban] (./2014-ITPalooza)
+### [ITPalooza Discovering Kanban](2014-ITPalooza/README.md)
 
-### [South Florida Agile Assocation - Why Kanban] (./2015-SFAA)
+### [South Florida Agile Assocation - Why Kanban](2015-SFAA/README.md)
