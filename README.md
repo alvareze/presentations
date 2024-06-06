@@ -1,5 +1,7 @@
 # Presentations by Eugenio Alvarez
 
+### [YouTube - Software Composition Analysis 2024](2024-YouTube-SCA/)
+
 ### [South Florida Developer Conference - Software Composition Analysis 2024](2024-SoFloDevCon/)
 
 ### [South Florida Developer Conference - Integrating Software Testing 2023](2023-SoFloDevCon/)
