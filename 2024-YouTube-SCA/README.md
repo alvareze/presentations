@@ -9,3 +9,5 @@ Software Composition Analysis (SCA), a critical practice for identifying and man
 This presentation is an introduction to Software Composition Analysis and its necessity in modern software development. Detailed insights into how SCA tools work to detect vulnerabilities and licensing issues and key challenges and best practices in implementing SCA.
 
 ![Picture of presentation](2024-05-22-YouTube-Software-Composition-Analysis.jpg)
+
+[YouTube presentation](https://youtu.be/P4DbKnds38o)
