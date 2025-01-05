@@ -1,5 +1,7 @@
 # Presentations by Eugenio Alvarez
 
+### [Miami Java User Group - Introduction to Rust for Java Developers  - December 2024](2024-12-MJUG/)
+
 ### [Miami Java User Group - Java Version API - October 2024](2024-10-MJUG/)
 
 ### [YouTube - Software Composition Analysis - May 2024](2024-YouTube-SCA/)
